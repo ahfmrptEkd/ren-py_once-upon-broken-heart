@@ -3,8 +3,11 @@
 참여자 : 박사무엘 (개인 프로젝트)
 
 ---
-**프로젝트 도구:** Ren'py, Stable Diffusion, OpenAI API, Notion
-**사용 언어:** Python
+**프로젝트 도구:**  
+Ren'py, Stable Diffusion, OpenAI API, Notion  
+
+**사용 언어:**  
+python
 ---
 
 <br>
