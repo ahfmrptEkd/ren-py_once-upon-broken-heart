@@ -1,0 +1,9 @@
+# Ignore specific files in the "once upon a broken heart" directory
+/once upon a broken heart/errors.txt
+/once upon a broken heart/log.txt
+/once upon a broken heart/traceback.txt
+
+/once upon a broken heart/game/cache
+/once upon a broken heart/game/gui
+/once upon a broken heart/game/saves
+/once upon a broken heart/game/tl

@@ -1,0 +1,18 @@
+Narrator: You awaken in the middle of the night in an unfamiliar room. You notice a trail of apple cores leading towards the fire place. Jacks stands there, face aglow from the fire burning the hearth. 
+
+
+# First Dialogue
+<Option 1: Why have you brought me here?>
+Jacks(Sample)
+
+<Option 2: Why are there so many apples on the floor?>
+Jacks(Sample)
+
+
+# Free Type x5 (10 trials)
+<FREE TYPE x5 ()>
+Jacks(Sample)
+
+
+Narrator: You feel a cold breeze on your shoulders and suddenly you are back in your own room. You look around for Jacks, but he is nowhere to be found. As you make your way to your bed, you spot an apple on your pillow. Upon further inspection, you find a note. “Are you prepared for what lies ahead, Little Fox? For the next time we meet, our true adventure will begins.”
+

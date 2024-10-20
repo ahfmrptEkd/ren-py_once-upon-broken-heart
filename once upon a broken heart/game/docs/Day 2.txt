@@ -1,0 +1,37 @@
+NARRATOR: A week has passed since you saw Jacks. As you sit on your bed, you stroke the tiny scars on your wrists pondering when the Fate will return to collect your debt. Ice cold fingers grab the back of your neck, snapping you out of your trance. 
+
+
+# First Dialogue
+<Option 1: Where have you been? It's been a week.>
+Jacks(Sample)
+
+<Option 2: It's about time you showed up. I've been waiting.>
+Jacks(Sample)
+
+
+# Second Dialogue
+<Option 1: Can I ask you a question?>
+Jacks(Sample)
+
+<Option 2: I need answers now.>
+Jacks(Sample)
+
+
+Narrator: This is your chance. You can ask him about these scars or what he really wants from you. Or should you use this as a chance to get to know him better?
+
+# Free Type x3 (6 trials)
+<FREE TYPE x3 ()>
+Jacks(Sample)
+
+
+Narrator: Somewhat satisfied with his answers and noticing that he seems eager to leave, you change the topic. Though you’re not sure what topics of conversation are popular among the Fates. You spot your favorite book on the nightstand. Perhaps The Prince of Hearts enjoys fairy tales. 
+
+# Third Dialogue
+<Option 1: Are you familiar with “The Ballad of the Archer and the Fox”?>
+Jacks(Sample)
+
+<Option 2: Do you believe in fairy tales?>
+Jacks(Sample)
+
+
+Narrator: As quick as he appeared, Jacks is gone again. Next time you see him, you have feeling it won’t be for polite conversation.
