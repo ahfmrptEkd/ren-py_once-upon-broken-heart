@@ -1,14 +1,14 @@
 # Getting Started
 
-1. ÇÁ·ÎÁ§Æ® Æú´õ¿¡ config.json ÆÄÀÏ¿¡ personal OPENAI_API_KEY ÀÔ·Â >> 
+1. í”„ë¡œì íŠ¸ í´ë”ì— config.json íŒŒì¼ì— personal OPENAI_API_KEY ì…ë ¥ >> 
 
-2. ![Ren'py ¿£Áø](https://www.renpy.org/latest.html) ´Ù¿î·Îµå ¹× ¼³Ä¡
+2. ![Ren'py ì—”ì§„](https://www.renpy.org/latest.html) ë‹¤ìš´ë¡œë“œ ë° ì„¤ì¹˜
 
-3. ÇÁ·ÎÁ§Æ® Æú´õ¿¡¼­ "once upon a broken heart" Æú´õ ´Ù¿î·Îµå ¹ŞÀº ÈÄ Ren'py ¿£Áø ÇÁ·ÎÁ§Æ® °æ·Î¿¡ º¹»ç ÈÄ ºÙ¿©³Ö±â
+3. í”„ë¡œì íŠ¸ í´ë”ì—ì„œ "once upon a broken heart" í´ë” ë‹¤ìš´ë¡œë“œ ë°›ì€ í›„ "game" í´ë” ë‚´ íŒŒì¼ë“¤ì„ Ren'py ì—”ì§„ í”„ë¡œì íŠ¸ ê²½ë¡œì— ìƒˆë¡œ ë§Œë“  ê²Œì„ í”„ë¡œì íŠ¸ í´ë”ì— ë³µì‚¬ í›„ ë¶™ì—¬ë„£ê¸°
 
-4. °ÔÀÓ ½ÇÇà
+4. ê²Œì„ ì‹¤í–‰
 
-- °ÔÀÓ assistand id °¡ ¾÷µ¥ÀÌÆ® µÇ´Â °æ¿ì "./game/python-packages/chatgpt/__init__.py" ÆÄÀÏ ³» assistant id ¼öÁ¤
+- ê²Œì„ assistand id ê°€ ì—…ë°ì´íŠ¸ ë˜ëŠ” ê²½ìš° "./game/python-packages/chatgpt/__init__.py" íŒŒì¼ ë‚´ assistant id ìˆ˜ì •
 
-ÇöÀç ÃÖ½Å assistant id : "asst_OHckidA2O7Ate1h3ctuKKZKQ"
+í˜„ì¬ ìµœì‹  assistant id : "asst_OHckidA2O7Ate1h3ctuKKZKQ"
 
